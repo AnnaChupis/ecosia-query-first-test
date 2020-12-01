@@ -2,7 +2,7 @@ from selene.support.shared import browser
 from selene import have
 
 
-def test_three_local_links_number():
+def test_local_links_number():
     browser.open('https://www.ecosia.org/')
 
     browser.element('[name=q]').type('yashaka selene').press_enter()
