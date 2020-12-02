@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ecosia_query_first_test"
+name = "ecosia-test"
 version = "0.1.0"
 description = ""
 authors = ["AnnaChupis <rf2@ukr.net>"]
